@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Paper review Supervised Neural Networks for the Classification for Structures] 
+title: [Supervised Neural Networks for the Classification for Structures] 
 categories:
 - blog
 ---
