@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Efficient Estimation for Word Representations in Vector Space (a.k.a Word2Vec)] 
+title: [Efficient Estimation for Word Representations in Vector Space] 
 categories:
 - blog
 ---
