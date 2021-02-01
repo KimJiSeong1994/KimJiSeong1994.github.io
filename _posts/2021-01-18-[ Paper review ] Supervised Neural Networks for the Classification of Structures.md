@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Supervised Neural Networks for the Classification for Structures] 
+title: [Efficient Estimation for Word Representations in Vector Space (a.k.a Word2Vec)] 
 categories:
 - blog
 ---
