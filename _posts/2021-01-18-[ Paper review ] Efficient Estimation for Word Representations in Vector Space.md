@@ -1,17 +1,12 @@
 ---
 layout: post
-title: [Efficient Estimation for Word Representations in Vector Space] 
+title: [Distributed Representations of Words and Phrases and their Compositionality] 
 categories:
 - blog
 ---
 
-Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
-meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
-on it occupy trust fund. Umami whatever kitsch, locavore fingerstache Tumblr pork belly
-[keffiyeh](#). Chia Echo Park Pitchfork, Blue Bottle [hashtag](#) stumptown skateboard selvage 
-mixtape. Echo Park retro butcher banjo cardigan, seitan flannel Brooklyn paleo fixie 
-Truffaut. Forage mustache Thundercats next level disrupt. Bicycle rights forage tattooed
-chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
+**Skip-gram의 Vector repressentation quailty를 높이는 목적**으로 다음과 같은 방법은 제안함함.
+**(1) word 기반으로 학습된 단어를 pharase 기반으로 학습**, **(2) 빈도가 높은 단어에 대한 subsampling**, **(3) Training에 negative sampling 기법 적용**
 
 ---
 
